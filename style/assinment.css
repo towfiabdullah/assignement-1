@@ -4,7 +4,7 @@ body{
      
 }
    
-
+  /*header start*/
  .header{
      background-color: rgba(229, 84, 115, 0.10);
      margin-top:0;
@@ -47,6 +47,9 @@ body{
         display: flex;
         justify-content: space-between;
     }
+       /*header end */
+        
+        /*section -1*/
      .flower{
                padding-top:50px;
                padding-left: 150px;
@@ -137,7 +140,9 @@ body{
           margin-left: 120px;
           text-decoration:underline;
       }
+ /*section 1 end */
 
+        /*section 2 start*/
            .section-2{
             width: 1922px;
             height: 620px;
@@ -181,7 +186,7 @@ body{
             .span{
               color: rgba(229, 84, 115, 1);
             }
-
+   /*section 3 start*/
              .section-3{
                   text-align:center;
                   margin-top:100px;
@@ -220,7 +225,7 @@ body{
                 gap: 24px;
                     
                }
-
+  /*section 4 start*/
                .section-4{
                 
                 height: 449px;
@@ -261,6 +266,9 @@ body{
                   background: #FFF;
                   font-size: large;
                  }
+
+                  /*footer*/
+                  
                  .footer{
                   width: 1922px;
                   height: 449px;
