@@ -181,3 +181,125 @@ body{
             .span{
               color: rgba(229, 84, 115, 1);
             }
+
+             .section-3{
+                  text-align:center;
+                  margin-top:100px;
+                  align-items: center;
+             }
+              .social{
+                 display:inline-block;
+              }
+              .social-title{
+                color: #272727;
+                font-family: Lato;
+                font-size: 40px;
+                
+                font-weight: 800;
+              
+              }
+               .social-description{
+                width:600px;
+                
+                color: rgba(39, 39, 39, 0.60);
+                text-align: center;
+                font-family: Lato;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 30px;  
+              
+               }
+
+               .soical-picture{
+                justify-content: space-around;
+                display: flex;
+                width: 80%;
+                text-align: center;
+                padding-left: 10%;
+                gap: 24px;
+                    
+               }
+
+               .section-4{
+                
+                height: 449px;
+                border-radius: 8px;
+                background-image: url('../Flower Asset/Rectangle\ 9.png');
+                background-repeat: no-repeat;
+                background-position: center;
+                margin-top: 120px;
+                text-align: center;
+               }
+               .search-bar{
+                  display:inline-block;
+               }
+
+                .search-bar-title{
+                  color: #272727;
+                  text-align: center;
+                  font-family: Lato;
+                  font-size: 40px;
+                  font-weight: 800;
+                  padding-top: 80px;
+                }
+                 .search-bar-info{
+                  color: rgba(39, 39, 39, 0.60);
+                  text-align: center;
+                  font-family: Lato;
+                  font-size: 18px;
+                   
+                   font-weight: 400;
+                   line-height: 30px;   
+                 }
+
+                 #email{
+                  width: 700px;
+                  height: 50px;
+                   margin-right:2px;
+                  border-radius: 8px white;
+                  background: #FFF;
+                  font-size: large;
+                 }
+                 .footer{
+                  width: 1922px;
+                  height: 449px;
+                  flex-shrink: 0;
+                  background: #111010;
+                  text-align: center;
+                  display: inline-block;
+                  margin-top: 130px;
+                 }
+
+                  .footer-title{
+                    font-family: Lato;
+                    font-size: 48px;
+                    font-style: normal;
+                    font-weight: 800;
+                       
+                  }
+                   .white{
+                    color: rgba(255, 255, 255, 1);
+                   }
+                    .pink{
+                      color: #E55473;
+                    }
+
+                    .footer-description{
+                      display: inline-block;
+                      width: 625px;
+                      color: rgba(255, 255, 255, 0.90);
+                      font-family: Lato;
+                      font-size: 18px;
+                      font-weight: 400;
+                      line-height: 30px;
+                    }
+                     .copyright{
+                      color: rgba(255, 255, 255, 0.40);
+                      text-align: center;
+                      font-family: Lato;
+                      font-size: 16px;
+                      font-style: normal;
+                      font-weight: 400;
+                      line-height: normal;
+                     }
